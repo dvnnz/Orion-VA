@@ -1,6 +1,6 @@
 ***Project Orion***  
-7/3/2026  
-
+*as of 7/3/2026, past box design has been archived*  
+<br>
 Orion is a custom Raspberry Pi powered virtual assistant made for integrating with environments.  
 Made with a Raspberry Pi Zero 2, an INMP441 mic, a speaker module, and an I2S bus to NS4168 amp.
 ------------------------------------------------------------------------------------------------
